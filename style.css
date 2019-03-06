@@ -1,15 +1,14 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Space Mono', monospace;
     color: white;
     align-content: center;
     background-image: linear-gradient(180deg, black, #000e4d);
     height: 950px;
 }
 
-p {
-    font-weight: bold;
+h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 table {
@@ -42,7 +41,7 @@ img {
 .glow {
     border-radius: 0%;
     box-shadow:
-      0 0 60px 30px #fff,
-      0 0 100px 60px rgb(224, 5, 224),
-      0 0 140px 90px rgb(35, 0, 100);
+      0 0 50px 10px #fff,
+      0 0 90px 40px rgb(224, 5, 224),
+      0 0 130px 70px rgb(35, 0, 100);
 }
